@@ -1,0 +1,10 @@
+Accuracy =  0.0936507936508 LDA - Eigen Vectors =  1
+Accuracy =  0.611111111111 LDA - Eigen Vectors =  2
+Accuracy =  0.92380952381 LDA - Eigen Vectors =  3
+Accuracy =  0.97619047619 LDA - Eigen Vectors =  4
+Accuracy =  0.990476190476 LDA - Eigen Vectors =  5
+Accuracy =  1.0 LDA - Eigen Vectors =  6
+Accuracy =  0.998412698413 LDA - Eigen Vectors =  7
+Accuracy =  1.0 LDA - Eigen Vectors =  8
+Accuracy =  1.0 LDA - Eigen Vectors =  9
+Accuracy =  1.0 LDA - Eigen Vectors =  10
